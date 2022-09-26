@@ -11,6 +11,10 @@
 
 1. [KNN，MLE与MAP，NaiveBayes](https://www.yuque.com/docs/share/8630edd6-cdb0-49ee-8d4d-50240fda2d69)
    1. 鸢尾花问题
-   1. 联邦文集：在85篇文章中对11篇未确定作者的文章进行分类
-2. 优化，线性回归，逻辑回归
-2. Kernel，SVM
+   2. 联邦文集：在85篇文章中对11篇未确定作者的文章进行分类
+2. [优化，回归，正则，感知机](https://www.yuque.com/docs/share/add356d5-b0c5-40c5-88f7-decf28608fc5)
+3. [Kernel，SVM](https://www.yuque.com/docs/share/4cdfd3d9-65df-413d-bc14-5667a4013c00)
+   1. SMO_reference是网上看到的别人的代码，可以单独作为SVM库使用，但b的求解好像有问题
+   2. 为了使用Hw3.2.ipynb，需要下载SMO.py
+   3. 算法主要流程见图片，实现起来好像还是存在一些问题
+   
