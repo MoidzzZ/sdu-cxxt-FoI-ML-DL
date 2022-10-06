@@ -17,4 +17,8 @@
    1. SMO_reference是网上看到的别人的代码，可以单独作为SVM库使用，但b的求解好像有问题
    2. 为了使用Hw3.2.ipynb，需要下载SMO.py
    3. 算法主要流程见图片，实现起来好像还是存在一些问题
-   
+4. [实验一](https://www.yuque.com/docs/share/802e507a-f0be-4eda-83a8-fe069a924165)
+   1. 有反向传播的手推
+   2. 利用BP网络采用sigmoid和tanh拟合XOR和1/sinx+1/cosx
+5. [无监督学习](https://www.yuque.com/docs/share/a36a68d9-5f9e-4ddb-adf9-c0f0cf87496a)
+   1. 探索不同初始化对K-Means的影响
