@@ -26,3 +26,6 @@
 5. [无监督学习](https://www.yuque.com/docs/share/a36a68d9-5f9e-4ddb-adf9-c0f0cf87496a)
    1. 探索不同初始化对K-Means的影响
    2. PCA第一主成分
+6. [图模型](https://www.yuque.com/docs/share/7e1b5596-5beb-4bb5-88d3-1ea1ae880ce6)
+   1. Gibbs采样
+7. [实验二](https://www.yuque.com/docs/share/711592fb-f0ee-460b-9848-76b61df2ebda)
