@@ -29,3 +29,4 @@
 6. [图模型](https://www.yuque.com/docs/share/7e1b5596-5beb-4bb5-88d3-1ea1ae880ce6)
    1. Gibbs采样
 7. [实验二](https://www.yuque.com/docs/share/711592fb-f0ee-460b-9848-76b61df2ebda)
+   1. LeNet5识别MNIST数据集
